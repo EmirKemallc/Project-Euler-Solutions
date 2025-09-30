@@ -1,2 +1,2 @@
-# eular-projects
+# euler-projects
 SOLITIONS FOR EULAR PROJECT PROBLEMS
